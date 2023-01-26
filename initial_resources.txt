@@ -1,0 +1,23 @@
+Unsorted and unchecked papers:
+
+https://patpannuto.com/pubs/bellon2022demoTagAlong.pdf
+https://ieeexplore.ieee.org/abstract/document/9833870
+https://www.proquest.com/openview/a8d9f2ed4f269df1ecba0f915cbafff7/1?pq-origsite=gscholar&cbl=18750&diss=y
+https://www.usenix.org/conference/soups2022/presentation/wei
+https://dl.acm.org/doi/abs/10.1145/3488932.3517410
+https://ieeexplore.ieee.org/abstract/document/9833881
+https://dl.acm.org/doi/abs/10.1145/3507657.3528546
+https://dl.acm.org/doi/abs/10.1145/3507657.3529655
+https://dl.acm.org/doi/abs/10.1145/3463676.3485616
+https://www.usenix.org/conference/usenixsecurity22/presentation/leu
+
+Obnoxious video, but decent ideas:
+https://www.youtube.com/watch?v=gvIh8GF5174
+
+Stacksmashing's video (he is the main hardware hacker who has done research so far):
+https://www.youtube.com/watch?v=_E0PWQvW-14
+
+Resources for dumping firmware:
+https://limitedresults.com/2020/06/nrf52-debug-resurrection-approtect-bypass/
+https://limitedresults.com/2021/03/the-pocketglitcher/
+ - I believe the Chipolo One and GalaxyTag use the same chipset.
