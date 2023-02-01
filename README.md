@@ -14,7 +14,7 @@ The study will be conducted in three phases:
 
 # Deliverables
 * A comprehensive report on the current state of the art in exploiting AirTags.
-*A technical report on the findings from the hands-on evaluation and reverse engineering of the Find My protocol.
+* A technical report on the findings from the hands-on evaluation and reverse engineering of the Find My protocol.
 * A set of recommendations for improving the security of AirTags.
 
 # Contact Information
