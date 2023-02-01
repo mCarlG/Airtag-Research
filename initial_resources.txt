@@ -56,5 +56,5 @@ Resources for dumping firmware:
 https://limitedresults.com/2020/06/nrf52-debug-resurrection-approtect-bypass/
 https://limitedresults.com/2021/03/the-pocketglitcher/
  - I believe the Chipolo One and GalaxyTag use the same chipset.
- 
- 
+
+https://adamcatley.com/AirTag.html - A lot of information
