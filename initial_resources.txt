@@ -1,23 +1,42 @@
-Unsorted and unchecked papers:
-
 https://patpannuto.com/pubs/bellon2022demoTagAlong.pdf
+
+The authors of this paper have demonstrated how Apple's Find My protocol, used in the AirTag, can be used as a data-muling service. They have used this protocol to transmit arbitrary data between devices, relying on a sufficient density of Apple devices to backhaul the data. They have expanded on previous work in the field to allow for greater bandwidth of data muling and remote payload entry without the need to reflash the device's firmware. The paper was presented at the 20th ACM Conference on Embedded Networked Sensor Systems in November 2022.
+
 https://ieeexplore.ieee.org/abstract/document/9833870
+
+An open-source algorithm is presented for detecting maliciously deployed BLE trackers in just a few minutes, with high precision and recall for most trackers. An Android application is provided for real-time detection, and the behavior of the AirTag is characterized and discussed. The goal is to make tracking devices safer for the public and future work is proposed to achieve this.
+
 https://www.proquest.com/openview/a8d9f2ed4f269df1ecba0f915cbafff7/1?pq-origsite=gscholar&cbl=18750&diss=y
-https://www.usenix.org/conference/soups2022/presentation/wei
-https://dl.acm.org/doi/abs/10.1145/3488932.3517410
-https://ieeexplore.ieee.org/abstract/document/9833881
+
+The article discusses RFID technology and its security vulnerabilities. Security researchers have found that RFID technology is vulnerable to cyberattacks, as both threat actors and security researchers have discovered that each component of an RFID system contains weaknesses against manipulation. The article highlights the different levels RFID operates and the different attack vectors available for a malicious actor to exploit against RFID systems.
+
+https://ieeexplore.ieee.org/abstract/document/9833881 / https://github.com/seemoo-lab/airtag/blob/main/woot22-paper.pdf
+
+This paper provides a detailed analysis of the AirTag hardware and firmware, including the Nordic nRF52832 chip for BLE and NFC connectivity and the Apple U1 chip for UWB fine ranging. The authors present attacks that affect the entire AirTag ecosystem, including voltage glitching, firmware extraction and reverse engineering, cloning, and unlocking undocumented commands between iPhones and AirTags. The findings also demonstrate the ability to perform firmware instrumentation over-the-air on unmodified AirTag hardware, including playing sound sequences and downgrading the nRF and U1 firmware.
+
 https://dl.acm.org/doi/abs/10.1145/3507657.3528546
+
+This paper discusses the potential dangers of tracker networks, specifically Apple's Find My network, being abused for stalking. The release of Apple's AirTag, a low-cost tracker covered by the Find My network, has amplified this issue. Although Apple provides a stalking detection feature for its ecosystem, Android users are not protected. The paper presents the development of "AirGuard," an Android app designed to protect against abuse by Apple tracking devices. The performance of AirGuard is compared to Apple's tracking protection in iOS and is studied in the wild using data from tens of thousands of users over multiple weeks.
+
 https://dl.acm.org/doi/abs/10.1145/3507657.3529655
+
+This paper presents OpenHaystack Mobile, a cross-platform mobile app that allows BLE-based location tracking using Apple's Find My network. It extends the previous work of OpenHaystack on macOS and is built with the Flutter framework for a improved user experience. The app offers the ability to track lost valuables and directly route users to the lost device with navigation apps like Google Maps.
+
 https://dl.acm.org/doi/abs/10.1145/3463676.3485616
-https://www.usenix.org/conference/usenixsecurity22/presentation/leu
+
+The paper discusses the potential for abuse of Apple's Find My protocol, which allows device owners to locate lost devices through a network of over a billion active Apple devices. Despite Apple's implementation of "item safety alerts" to prevent malicious tracking, the paper demonstrates that it is possible to create custom devices that can participate in and be tracked by the Find My network while avoiding these alerts. The authors suggest mitigations for some of these techniques but note that a third technique would require substantial changes to the Find My protocol.
 
 Obnoxious video, but decent ideas:
 https://www.youtube.com/watch?v=gvIh8GF5174
 
 Stacksmashing's video (he is the main hardware hacker who has done research so far):
 https://www.youtube.com/watch?v=_E0PWQvW-14
+His Github:
+https://github.com/stacksmashing/airtag-glitcher
 
 Resources for dumping firmware:
 https://limitedresults.com/2020/06/nrf52-debug-resurrection-approtect-bypass/
 https://limitedresults.com/2021/03/the-pocketglitcher/
  - I believe the Chipolo One and GalaxyTag use the same chipset.
+ 
+ 
