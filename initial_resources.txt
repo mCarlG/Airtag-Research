@@ -62,3 +62,7 @@ https://adamcatley.com/AirTag.html - A lot of information
 Flipper Zero Airtags
 https://mobile.twitter.com/tech/status/1595564779665498112?cxt=HHwWgICxwdTtyqQsAAAA
 https://www.youtube.com/watch?v=m_-nMw5bzjI
+
+General Bluetooth Spoofing -
+https://lacklustre.net/bluetooth/#talks
+https://www.youtube.com/watch?v=_Z4gYyrKVFM&t=1s
