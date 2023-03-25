@@ -66,3 +66,6 @@ https://www.youtube.com/watch?v=m_-nMw5bzjI
 General Bluetooth Spoofing -
 https://lacklustre.net/bluetooth/#talks
 https://www.youtube.com/watch?v=_Z4gYyrKVFM&t=1s
+
+Galaxy SmartTag research paper - 
+https://arxiv.org/pdf/2210.14702.pdf
